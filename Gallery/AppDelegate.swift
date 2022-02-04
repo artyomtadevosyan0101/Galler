@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Galler
+//  Gallery
 //
 //  Created by Artyom on 03.02.22.
 //
@@ -9,7 +9,8 @@ import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
+//
+    
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {

@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Galler
+//  Gallery
 //
 //  Created by Artyom on 03.02.22.
 //
@@ -14,15 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     func add(){
-        //jefhivcbehc
-//        ejfbchefbcv÷
-        //Tyom barev
-        //barev axper jan
-        //lavner dfsfsdfdg
-        //😆
-        // https://git-fork.com/
-        // asdasd
+        //
     }
-
 }
 
